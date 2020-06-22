@@ -1,0 +1,7 @@
+INSERT INTO `users` (`id`, `nom`, `prenom`, `date_naissance`, `telephone`, `email`, `statut`, `specialite`, `adresse`, `email_verified_at`, `password`, `role_id`, `wilaya_id`, `is_active`, `remember_token`, `created_at`, `updated_at`) VALUES
+(4, 'MEGHERBI', 'MAMOUNE', NULL, '0771110848', 'mamounemegherbi1000@Hotmail.fr', 'Libéral', 'Endocrinologie', NULL, NULL, 'mefer6159', 2, 16, 0, NULL, '2020-01-31 18:30:44', '2020-01-31 18:30:44'),
+(5, 'AIT CHAFA', 'NASSIMA', NULL, '0771154012', 'nassimaaitchafa@hotmail.fr', 'Public', 'Endocrinologie', NULL, NULL, 'ferielmehdi', 2, 16, 0, NULL, '2020-01-31 18:38:23', '2020-01-31 18:38:23'),
+(6, 'SOUAKHRI', 'Samia', NULL, '0550405843', 'endo.sama@yahoo.fr', 'Libéral', 'Endocrinologie', NULL, NULL, 'ouargla2011', 2, 30, 0, NULL, '2020-01-31 19:53:41', '2020-01-31 19:53:41'),
+(7, 'BENLARBI', 'Radia', NULL, '0561636610', 'radiabenlarbi@yahoo.fr', 'Libéral', 'Endocrinologie', NULL, NULL, 'andel2020', 2, 16, 0, 'yVSXpzLSIBVvD7l6XanoYsh3Hk52phYyuSEr2l2bQSkGXGIOyZ11epKIjSCi', '2020-02-02 20:14:27', '2020-02-03 18:17:35'),
+(8, 'brika', 'sihem', NULL, '0659889585', 'sihemlahreche@yahoo.fr', 'Libéral', 'Médecine générale', NULL, NULL, 'sihem2005', 2, 19, 0, NULL, '2020-02-04 19:59:57', '2020-02-04 19:59:57'),
+(9, 'Dib', 'Imane', NULL, '0552465928', 'imene.dib@hotmail.com', 'Public', 'Endocrinologie', NULL, NULL, 'endocrinologie', 2, 16, 0, NULL, '2020-02-05 05:57:51', '2020-02-05 05:57:51');
